@@ -1,0 +1,35 @@
+{
+    "todoList": [
+      {
+        "activity": "Coding",
+        "id": 3,
+        "isFinished": true
+      },
+      {
+        "activity": "Valorant",
+        "id": 5,
+        "isFinished": true
+      },
+      {
+        "activity": "React JS",
+        "id": 7,
+        "isFinished": false
+      },
+      {
+        "activity": "Axios",
+        "id": 8,
+        "isFinished": false
+      },
+      {
+        "activity": "JSON Server",
+        "id": 9,
+        "isFinished": false
+      },
+      {
+        "activity": "Bootstrap",
+        "isFinished": true,
+        "id": 10
+      }
+    ],
+    "user": []
+  }
